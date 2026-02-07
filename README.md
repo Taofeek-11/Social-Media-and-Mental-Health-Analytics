@@ -116,9 +116,16 @@ These constraints are acknowledged and reflected in the interpretation of result
 
 ## License and Use
 
-This project is provided for academic, educational, and portfolio purposes. If reused or adapted, appropriate attribution is required.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-* tailor this README for **portfolio vs academic submission**,
-* compress it further for a **minimal GitHub README**, or
-* write a **methodology.md** that aligns with journal/thesis standards.
+## Acknowledgments
+
+- **Data Source**: Kaggle Students' Social Media Addiction
+- **Tools**: Tableau Public, MYSQL
+- **Inspiration**: Data visualization best practices from Stephen Few and Edward Tufte
+- **Community**: Tableau Public community for design inspiration
+
+## Contact
+
+**[Oladigbolu Taofeek]**
+- 📧 Email: taofeekoladigbolu@gmail.com
