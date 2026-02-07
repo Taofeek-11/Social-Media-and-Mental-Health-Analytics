@@ -1,5 +1,5 @@
 # Social Media Exposure and Mental Health Analytics
-
+---
 ## Overview
 
 This project presents a descriptive analytics study of social media exposure patterns and associated mental health indicators using survey-based data. The analysis focuses on how varying levels of daily social media use align with mean scores across multiple mental health constructs, with results explored interactively through SQL-driven preprocessing and Tableau dashboards.
